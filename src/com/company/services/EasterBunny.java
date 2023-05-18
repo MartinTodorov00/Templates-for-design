@@ -1,6 +1,5 @@
 package com.company.services;
 
-import com.company.eggs.DecorateEgg;
 import com.company.eggs.Egg;
 
 // Singleton

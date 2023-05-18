@@ -1,4 +1,6 @@
-package com.company.eggs;
+package com.company.services;
+
+import com.company.eggs.Egg;
 
 import java.util.Random;
 
